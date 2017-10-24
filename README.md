@@ -802,15 +802,3 @@ public class SuccessKilledDaoTest {
 
 到此，我们成功完成了Dao层开发及测试，接下来我们将进行Service层的开发工作，请查看我的下篇文章[Java高并发秒杀API之Service层开发](http://codingxiaxw.cn/2016/11/28/54-seckill-service/)  
 
-
-## 3.联系
-
-  If you have some questions after you see this article,you can tell your doubts in the comments area or you can find some info by  clicking these links.
-
-
-- [Blog@codingXiaxw's blog](http://codingxiaxw.cn)
-
-- [Weibo@codingXiaxw](http://weibo.com/u/5023661572?from=hissimilar_home&refer_flag=1005050003_)
-
-- [Zhihu@codingXiaxw](http://www.zhihu.com/people/e9f78fa34b8002652811ac348da3f671)  
-- [Github@codingXiaxw](https://github.com/codingXiaxw)
